@@ -1,3 +1,4 @@
+import {useNavigation} from '@react-navigation/native';
 import {
   View,
   Text,
@@ -9,6 +10,8 @@ import {
 import Animated, {FadeInUp, FadeInDown} from 'react-native-reanimated';
 
 const LoginScreen = () => {
+  const navigation = useNavigation();
+
   return (
     <View className="w-full h-full bg-white">
       <StatusBar barStyle="light-content" />
@@ -65,7 +68,7 @@ const LoginScreen = () => {
           </Animated.View>
 
           <Animated.View
-            entering={FadeInDown.duration(1000).duration(400).springify()}
+            entering={FadeInDown.duration(1000).delay(400).springify()}
             className="w-full">
             <TouchableOpacity className="w-full bg-sky-400 p-3 mb-3 rounded-2xl">
               <Text className="text-2xl font-bold text-center text-white">
@@ -75,10 +78,10 @@ const LoginScreen = () => {
           </Animated.View>
 
           <Animated.View
-            entering={FadeInDown.duration(1000).duration(600).springify()}
+            entering={FadeInDown.duration(1000).delay(600).springify()}
             className="flex-row justify-center">
             <Text>Don't have an account? </Text>
-            <TouchableOpacity>
+            <TouchableOpacity onPress={() => navigation.push('SignUp')}>
               <Text className="text-sky-600">SignUp</Text>
             </TouchableOpacity>
           </Animated.View>
