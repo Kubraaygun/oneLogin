@@ -13,13 +13,12 @@ Bu proje, React Native kullanılarak oluşturulmuş basit bir kimlik doğrulama 
 - React Native Reanimated:
   Giriş ve kayıt ekranlarında pürüzsüz animasyonlar oluşturmak için kullanılmıştır.
 
-* Ekran elemanları (yazı alanları, butonlar, resimler), FadeInUp ve FadeInDown animasyonları ile ekrana gelir.
+  - Ekran elemanları (yazı alanları, butonlar, resimler), FadeInUp ve FadeInDown animasyonları ile ekrana gelir.
 
 - Animasyonlu Arayüz:
 
-* **LoginScreen:** KAnimasyonlu ışıklar, giriş formu ve fade-in (belirme) animasyonları ile düğmeler.
-* **SignUpScreen:** Kayıt ekranına özgü benzer animasyonlar.
+  - **LoginScreen:** KAnimasyonlu ışıklar, giriş formu ve fade-in (belirme) animasyonları ile düğmeler.
+  - **SignUpScreen:** Kayıt ekranına özgü benzer animasyonlar.
 
 - **Duyarlı Tasarım:** Flexbox ve yüzde tabanlı genişlik ve yükseklik kullanılarak farklı ekran boyutlarına uyum sağlar.
-
 - **Özel Arka Plan:** Her ekranda kullanıcı deneyimini geliştirmek için özel arka plan görselleri kullanılmıştır.
