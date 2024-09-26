@@ -17,8 +17,8 @@ Giriş ve kayıt ekranlarında pürüzsüz animasyonlar oluşturmak için kullan
 
 ### **3-Animasyonlu Arayüz:**
 
-**LoginScreen:** Animasyonlu ışıklar, giriş formu ve fade-in (belirme) animasyonları ile düğmeler.
-**SignUpScreen:** Kayıt ekranına özgü benzer animasyonlar.
+- **LoginScreen:** Animasyonlu ışıklar, giriş formu ve fade-in (belirme) animasyonları ile düğmeler.
+- **SignUpScreen:** Kayıt ekranına özgü benzer animasyonlar.
 
 ### **4-Duyarlı Tasarım:**
 
