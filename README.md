@@ -7,8 +7,8 @@ Bu proje, React Native kullanılarak oluşturulmuş basit bir kimlik doğrulama 
 - **1-React Navigation:**
   Ekranlar arası geçişleri yönetmek için @react-navigation-native kullanılmıştır.
 
-       **LoginScreen:** Kullanıcıların giriş yapabileceği başlangıç ekranı.
-       **SignUpScreen:** Kullanıcıların giriş yapabileceği başlangıç ekranı.
+  **LoginScreen:** Kullanıcıların giriş yapabileceği başlangıç ekranı.
+  **SignUpScreen:** Kullanıcıların giriş yapabileceği başlangıç ekranı.
 
 - **2-React Native Reanimated:**
   Giriş ve kayıt ekranlarında pürüzsüz animasyonlar oluşturmak için kullanılmıştır. \* Ekran elemanları (yazı alanları, butonlar, resimler), FadeInUp ve FadeInDown animasyonları ile ekrana gelir.
@@ -19,3 +19,7 @@ Bu proje, React Native kullanılarak oluşturulmuş basit bir kimlik doğrulama 
 
 - **4-Duyarlı Tasarım:** Flexbox ve yüzde tabanlı genişlik ve yükseklik kullanılarak farklı ekran boyutlarına uyum sağlar.
 - **5-Özel Arka Plan:** Her ekranda kullanıcı deneyimini geliştirmek için özel arka plan görselleri kullanılmıştır.
+
+- madde 1
+
+* madde 2
