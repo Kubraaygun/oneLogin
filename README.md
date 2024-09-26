@@ -27,3 +27,18 @@ Flexbox ve yüzde tabanlı genişlik ve yükseklik kullanılarak farklı ekran b
 ### **5-Özel Arka Plan:**
 
 Her ekranda kullanıcı deneyimini geliştirmek için özel arka plan görselleri kullanılmıştır.
+
+### **6-Özel Arka Plan:**
+
+- **App.js:** Uygulamanın ana giriş noktası. Router'ı NavigationContainer içine sarar.
+- **Router.js:** Giriş ve kayıt ekranları arasında geçişi yöneten Stack Navigator.
+- **LoginScreen.js:** Giriş formunu ve animasyonlu geçişleri içerir.
+- **SignUpScreen.js:** Kayıt formunu ve animasyonlu geçişleri içerir.
+
+### **7-Bağımlılıklar:**
+
+- **React Navigation::** Ekranlar arasında geçiş sağlamak için.
+- **React Native Reanimated:** Pürüzsüz ve performanslı animasyonlar için.
+- **React Native:** Mobil uygulamayı oluşturmak için.
+
+### **8-Ekran Görüntüsü:**
