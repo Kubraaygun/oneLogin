@@ -8,12 +8,12 @@ Bu proje, React Native kullanılarak oluşturulmuş basit bir kimlik doğrulama 
 
 Ekranlar arası geçişleri yönetmek için @react-navigation-native kullanılmıştır.
 
-**LoginScreen:** Kullanıcıların giriş yapabileceği başlangıç ekranı.
-**SignUpScreen:** Kullanıcıların giriş yapabileceği başlangıç ekranı.
+- **LoginScreen:** Kullanıcıların giriş yapabileceği başlangıç ekranı.
+- **SignUpScreen:** Kullanıcıların giriş yapabileceği başlangıç ekranı.
 
 ### **2-React Native Reanimated:**
 
-Giriş ve kayıt ekranlarında pürüzsüz animasyonlar oluşturmak için kullanılmıştır. \* Ekran elemanları (yazı alanları, butonlar, resimler), FadeInUp ve FadeInDown animasyonları ile ekrana gelir.
+Giriş ve kayıt ekranlarında pürüzsüz animasyonlar oluşturmak için kullanılmıştır. Ekran elemanları (yazı alanları, butonlar, resimler), FadeInUp ve FadeInDown animasyonları ile ekrana gelir.
 
 ### **3-Animasyonlu Arayüz:**
 
