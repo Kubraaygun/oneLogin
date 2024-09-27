@@ -43,9 +43,11 @@ Her ekranda kullanıcı deneyimini geliştirmek için özel arka plan görseller
 - **React Native Reanimated:** Pürüzsüz ve performanslı animasyonlar için.
 - **React Native:** Mobil uygulamayı oluşturmak için.
 
-### **8-Ekran Görüntüsü:**
+### **8-Gif Görüntüsü:**
 
 ![](./assets/onLogin.gif)
+
+### **8-Ekran Görüntüsü:**
 
 ![](./assets/images/oneLogin11.png)
 
