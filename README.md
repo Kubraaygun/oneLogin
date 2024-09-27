@@ -47,7 +47,7 @@ Her ekranda kullanıcı deneyimini geliştirmek için özel arka plan görseller
 
 ![](./assets/onLogin.gif)
 
-### **8-Ekran Görüntüsü:**
+### **9-Ekran Görüntüsü:**
 
 ![](./assets/images/oneLogin11.png)
 
