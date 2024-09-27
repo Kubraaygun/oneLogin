@@ -46,3 +46,5 @@ Her ekranda kullanıcı deneyimini geliştirmek için özel arka plan görseller
 ### **8-Ekran Görüntüsü:**
 
 ![](./assets/onLogin.gif)
+![](./assets/images/oneLogin1.png)
+![](./assets/images/oneLogin2.png)
