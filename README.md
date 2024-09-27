@@ -44,3 +44,5 @@ Her ekranda kullanıcı deneyimini geliştirmek için özel arka plan görseller
 - **React Native:** Mobil uygulamayı oluşturmak için.
 
 ### **8-Ekran Görüntüsü:**
+
+EkranGoruntusu
