@@ -1,6 +1,6 @@
 # React Natıve OneLogın Project
 
-## (React Native Kimlik Doğrulama Uygulaması)
+## React Native Authentication Application
 
 Bu proje, React Native kullanılarak oluşturulmuş basit bir kimlik doğrulama uygulamasıdır. Uygulama, giriş ve kayıt olma ekranlarına sahiptir ve animasyonlu geçişler içerir. Ekranlar arası geçiş için React Navigation, animasyonlar için ise React Native Reanimated kullanılmıştır.
 
