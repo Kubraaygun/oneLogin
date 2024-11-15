@@ -2,16 +2,16 @@
 
 ## React Native Authentication Application
 
-Bu proje, React Native kullanılarak oluşturulmuş basit bir kimlik doğrulama uygulamasıdır. Uygulama, giriş ve kayıt olma ekranlarına sahiptir ve animasyonlu geçişler içerir. Ekranlar arası geçiş için React Navigation, animasyonlar için ise React Native Reanimated kullanılmıştır.
+This project is a simple React Native simplified authentication application. The application has login and sign up screens and animated transitions. React Navigation is used for transitions between screens and React Native Reanimated is used for animations.
 
-## Özellikler
+## Features
 
 ### **1-React Navigation:**
 
-Ekranlar arası geçişleri yönetmek için @react-navigation-native kullanılmıştır.
+@react-navigation-native is used to manage transitions between screens.
 
-- **LoginScreen:** Kullanıcıların giriş yapabileceği başlangıç ekranı.
-- **SignUpScreen:** Kullanıcıların giriş yapabileceği başlangıç ekranı.
+- **LoginScreen:** The home screen where users can log in.
+- **SignUpScreen:** The home screen where users can log in.
 
 ### **2-React Native Reanimated:**
 
