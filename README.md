@@ -15,39 +15,39 @@ This project is a simple React Native simplified authentication application. The
 
 ### **2-React Native Reanimated:**
 
-Giriş ve kayıt ekranlarında pürüzsüz animasyonlar oluşturmak için kullanılmıştır. Ekran elemanları (yazı alanları, butonlar, resimler), FadeInUp ve FadeInDown animasyonları ile ekrana gelir.
+It is used to create smooth animations on login and registration screens. Screen elements (text fields, buttons, images) come to the screen with FadeInUp and FadeInDown animations.
 
-### **3-Animasyonlu Arayüz:**
+### **3-Animated Interface:**
 
-- **LoginScreen:** Animasyonlu ışıklar, giriş formu ve fade-in (belirme) animasyonları ile düğmeler.
-- **SignUpScreen:** Kayıt ekranına özgü benzer animasyonlar.
+- **LoginScreen:** Animated lights, login form and buttons with fade-in animations.
+- **SignUpScreen:** Similar animations specific to the recording screen.
 
-### **4-Duyarlı Tasarım:**
+### **4-Responsive Design:**
 
-Flexbox ve yüzde tabanlı genişlik ve yükseklik kullanılarak farklı ekran boyutlarına uyum sağlar.
+It adapts to different screen sizes using flexbox and percentage-based width and height.
 
-### **5-Özel Arka Plan:**
+### **5-Custom Background:**
 
-Her ekranda kullanıcı deneyimini geliştirmek için özel arka plan görselleri kullanılmıştır.
+Special background images are used to enhance the user experience on each screen.
 
-### **6-Özel Arka Plan:**
+### **6-Custom Background:**
 
-- **App.js:** Uygulamanın ana giriş noktası. Router'ı NavigationContainer içine sarar.
-- **Router.js:** Giriş ve kayıt ekranları arasında geçişi yöneten Stack Navigator.
-- **LoginScreen.js:** Giriş formunu ve animasyonlu geçişleri içerir.
-- **SignUpScreen.js:** Kayıt formunu ve animasyonlu geçişleri içerir.
+- **App.js:** The main entry point of the application. Wraps the router in a NavigationContainer.
+- **Router.js:** Stack Navigator, which manages the transition between login and registration screens.
+- **LoginScreen.js:** It includes a login form and animated transitions.
+- **SignUpScreen.js:** It includes the registration form and animated transitions.
 
-### **7-Bağımlılıklar:**
+### **7-Dependencies:**
 
-- **React Navigation::** Ekranlar arasında geçiş sağlamak için.
-- **React Native Reanimated:** Pürüzsüz ve performanslı animasyonlar için.
-- **React Native:** Mobil uygulamayı oluşturmak için.
+- **React Navigation::** To navigate between screens.
+- **React Native Reanimated:** For smooth and efficient animations.
+- **React Native:** To create the mobile application.
 
-### **8-Gif Görüntüsü:**
+### **8-Gif Image:**
 
 ![](./assets/onLogin.gif)
 
-### **9-Ekran Görüntüsü:**
+### **9-Screenshot:**
 
 ![](./assets/images/oneLogin11.png)
 
